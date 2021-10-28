@@ -1,4 +1,4 @@
 <<<<<<< HEAD
-Web Technology Assignment is not ready
+Web Technology Assignment is now ready 
 
 >>>>>>> css-assignments
