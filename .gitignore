@@ -1,4 +1,2 @@
-assign1.css
-assign1.js
-assign2.css
-assign2.js
+*.css
+/*.js
