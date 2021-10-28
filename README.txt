@@ -1,3 +1,8 @@
 <<<<<<< HEAD
+
 Web Technology Assignment is not ready . 2) profitable site
->>>>>>> css-assignments
+
+Web Technology Assignment is now ready 
+
+>>>>>>> js-assignments
+
